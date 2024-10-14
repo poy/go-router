@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
+github.com/poy/go-dependency-injection v0.0.0-20230819141526-17bd8519a9f2 h1:Lv7bLngaJC/A6hvDTnFIf+9LT+KJJVixN/QDS0TzBAc=
+github.com/poy/go-dependency-injection v0.0.0-20230819141526-17bd8519a9f2/go.mod h1:f+2VleJ+NelgIdMVWMwXKZly3jUwWL7j6OZwWKaEXGY=
